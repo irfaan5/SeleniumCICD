@@ -58,7 +58,7 @@
 	<profiles>	
 	
 		<profile>
-			<id>Regrassion</id>
+			<id>Regression</id>
 			<build>
 				<pluginManagement>
 					<plugins>
